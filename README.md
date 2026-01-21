@@ -1,5 +1,11 @@
 # RenuuT
-<h1 align="center">Hi 👋, I'm Renuu Tomer</h1>
+<h1 align="center">Hi 👋, I'm Renuu Tomer 
+🚀 About Me
+🎓 MSc in Artificial Intelligence
+🤖 Interested in Machine Learning, Deep Learning, NLP, and Computer Vision
+🧠 Enjoy solving real-world problems using data-driven approaches
+💻 Actively working on academic and personal AI projects
+🌱 Currently learning: advanced deep learning architectures & MLOps</h1>
 <h3 align="center">MSc Student in Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renuutomer&label=Profile%20views&color=0e75b6&style=flat" alt="renuutomer" /> </p>
